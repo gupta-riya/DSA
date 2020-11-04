@@ -30,7 +30,7 @@ public:
         
         int target = count - n +  1;
         
-        int start =  1 ;
+        int start =  1;
         
         if(target == 1)
         {
