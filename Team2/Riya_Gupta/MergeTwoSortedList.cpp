@@ -29,7 +29,7 @@ public:
             {
                 curr->next = temp2;
                 curr = curr->next;
-                 temp2 = temp2->next;
+                 temp2 = temp2->next ;
             }
             else
             {
